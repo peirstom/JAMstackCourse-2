@@ -6,16 +6,20 @@ This repo holds one of a series of examples of JAMstack sites from a freeCodeCam
 
 ## About this example
 
-The first of our 6 code examples, this is a very basic starting point. Just a single, static asset which we will build on as the tutorial progresses.
+The second of our 6 code examples, this example builds on [example 1](https://findthat.at/jamstack/ex1) to add some simplistic client-side JavaScript. Things are still very simple here, but we use this example to deploy an iteration to our hosting environment.
 
-In the video, we show this single asset site being deployed via [Netlify Drop](https://netlify.com/drop?utm_source=github&utm_medium=fcc-examples-pnh&utm_campaign=devex) for the simplest drag and drop CDN deployment.
+In the video, we show the pre-built, ready-to-serve assets to out hosting environment, using the drag and drop facility to create a new immutable deployment within [Netlify](https://netlify.com/drop?utm_source=github&utm_medium=fcc-examples-pnh&utm_campaign=devex). The video also introduces different types of rendering, explaining:
+
+- Client-side rendering
+- Server-side rendering (At request time)
+- Server-side rendering (At build time)
 
 ## Local development
 
 To work on this example locally, you can clone the repository and simply start editing. There is no build step or any pre-requisites.
 
 ```bash
-git clone https://github.com/peirstom/JAMstackCourse-1-all-static
+git clone https://github.com/peirstom/JAMstackCourse-2
 ```
 
 ## Clone and deploy
