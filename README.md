@@ -1,6 +1,6 @@
 ## freeCodeCamp JAMstack examples
 
-# 1 - All simply static
+# 2 - Changing the DOM with JavaScript
 
 This repo holds one of a series of examples of JAMstack sites from a freeCodeCamp video. The video, "Introduction to JAMstack" is available to view for free on freeCodeCamp.
 
